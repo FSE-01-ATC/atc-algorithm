@@ -1,0 +1,17 @@
+prof
+p.id p.name p.email
+
+ta
+t.id t.name t.email
+
+courses
+c.id c.code c.name c.degree c.year prof.id
+
+groups
+g.id g.degree g.number g.year
+
+preferences
+p.id p.time prof.id
+
+ta_course
+t.id c.id

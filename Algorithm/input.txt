@@ -1,0 +1,56 @@
+4
+1 Prof1 p.1st@innopolis.university
+2 Prof2 p.2nd@innopolis.university
+3 Prof3 p.3rd@innopolis.university
+4 Prof4 p.4th@innopolis.university
+
+
+8
+1 TA1 ta.1st@innopolis.university
+2 TA2 ta.2nd@innopolis.university
+3 TA3 ta.3rd@innopolis.university
+4 TA4 ta.4th@innopolis.university
+5 TA5 ta.5th@innopolis.university
+6 TA6 ta.6th@innopolis.university
+7 TA7 ta.7th@innopolis.university
+8 TA8 ta.8th@innopolis.university
+
+4
+1 CE12 C1 BS 1 1
+2 CS12 C2 BS 1 2
+3 CE22 C3 BS 2 3
+4 SE11 C4 BS 2 2
+
+8
+1 105 1
+2 107 1
+3 303 3
+4 305 3
+5 304 3
+6 301 3
+7 105 2
+8 107 2 
+
+
+5
+1 BS 1 1
+2 BS 2 1
+3 BS 3 1
+4 BS 1 2
+5 BS 1 2
+
+1
+1 1 1
+
+
+8
+1 1
+2 1
+3 2
+4 2
+5 3
+6 3
+7 4
+8 4
+
+
